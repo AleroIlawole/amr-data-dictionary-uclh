@@ -20,7 +20,7 @@ Data files:
 
 ## Git hub title added locally
 
-- See if this gets changed on Github!
+-   See if this gets changed on Github!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
