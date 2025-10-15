@@ -8,6 +8,8 @@ i am going to add line of text
 
 i'm adding any change to the file locally
 
+making a change locally on line 11
+
 This web page will provide metadata information about the data files used for the course R for AMR.
 
 Data files:
